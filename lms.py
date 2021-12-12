@@ -107,4 +107,4 @@ if __name__ == "__main__":
     class_id, class_name = uni_classes["computer_architecture"].values()
 
     join_a_class(username, password, class_id, class_name)
-    input("Press enter to leave the class.")
+    input("\033[93mPress enter to leave the class.\033[0m")
