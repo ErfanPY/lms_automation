@@ -9,8 +9,10 @@ This projects run a __selenium__ bot to automate the process of joining an lms c
    pip install -r requirements.txt
    ```
 
-   edit lms_auth.txt and replace username and password\
-   with you own lms username and password.
+   Make ```lms_auth.txt``` and put your lms username and password in it like bellow.
+   ```
+   your_username:your_password
+   ```
 
    ```sh
    python3 lms.py
