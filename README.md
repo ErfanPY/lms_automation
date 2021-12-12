@@ -1,7 +1,7 @@
 # Birjand university [lms](https://lms.birjand.ac.ir/) automation
 This projects run a __selenium__ bot to automate the process of joining an lms class.
 
-## Usage
+### Usage
 ---
    ```sh
    git clone https://github.com/ErfanPY/lms_automation.git
@@ -17,3 +17,9 @@ This projects run a __selenium__ bot to automate the process of joining an lms c
    ```sh
    python3 lms.py
    ```
+
+### TODO
+---
+ - [ ] Collect all class id and names
+ - [ ] Support class calendar
+ - [ ] Support adobe connect poll response  
